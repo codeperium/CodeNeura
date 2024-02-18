@@ -1,3 +1,6 @@
 CodeNeura
 CodeNeura.*
 /bin/
+/lib/
+.cache
+compile_commands.json
