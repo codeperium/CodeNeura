@@ -1,6 +1,11 @@
 #include <errno.h>
 #include <string.h>
 #include <stdio.h>
+#include <codeneura.h>
+
+void hello_world() {
+  printf("Hello, world!\n");
+}
 
 int main(int argc, char* argv[])
 {
